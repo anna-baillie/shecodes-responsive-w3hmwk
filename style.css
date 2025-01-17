@@ -102,3 +102,13 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 450px) {
+  .mob-h1 {
+    font-size: 60px;
+  }
+
+  .mob-h2 {
+    font-size: 38px;
+  }
+}
